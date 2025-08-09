@@ -1,8 +1,9 @@
-🌌 Labranel — Showcode 🚀
+🌌 Laravel — Showcode 🚀
 
 Um projeto interativo em Python (Streamlit).
 
 Mistura design moderno, SQL interativo e visualizações incríveis em um único arquivo.
+
 
 ✨ Funcionalidades:
 
@@ -16,6 +17,8 @@ Mistura design moderno, SQL interativo e visualizações incríveis em um único
 
 🎨 Estilo chique e responsivo com gradiente e transparência (glassmorphism).
 
+
+
 🛠 Tecnologias utilizadas:
 
 🐍 Python
@@ -28,7 +31,10 @@ Mistura design moderno, SQL interativo e visualizações incríveis em um único
 
 📑 Pandas
 
-🚀 Como rodar
+
+
+🚀 Como rodar:
+
 no git bash ou terminal
 pip install streamlit pandas sqlalchemy plotly
 streamlit run app.py
