@@ -1,8 +1,11 @@
 🌌 Labranel — Showcode 🚀
+
 Um projeto interativo em Python (Streamlit).
+
 Mistura design moderno, SQL interativo e visualizações incríveis em um único arquivo.
 
-✨ Funcionalidades
+✨ Funcionalidades:
+
 📊 Dashboard interativo com gráficos avançados (Sunburst + animação de vendas mensais).
 
 🛠 Console SQL ao vivo para executar consultas no banco em memória.
@@ -13,7 +16,8 @@ Mistura design moderno, SQL interativo e visualizações incríveis em um único
 
 🎨 Estilo chique e responsivo com gradiente e transparência (glassmorphism).
 
-🛠 Tecnologias utilizadas
+🛠 Tecnologias utilizadas:
+
 🐍 Python
 
 📦 Streamlit
